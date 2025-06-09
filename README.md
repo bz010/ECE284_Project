@@ -2,4 +2,4 @@
 
 ## How to run
 
-- The Jupiter Notebook can be run either using Google Colab or running locally using `pip install -r requirements.txt`
+- The Jupiter Notebook can be run either using Google Colab or running locally after setting up environment using `pip install -r requirements.txt`
